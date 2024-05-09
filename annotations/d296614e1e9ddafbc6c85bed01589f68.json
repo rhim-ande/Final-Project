@@ -1,0 +1,244 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Red ink",
+      "@type" : "oa:Tag",
+      "chars" : "Red ink"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Damage",
+      "@type" : "oa:Tag",
+      "chars" : "Damage"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Stain on the parchment from what appears to be a red ink spill.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Stain on the parchment from what appears to be a red ink spill.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/105533102088785129971",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2024-05-08T14:03:55",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1715177035642",
+    "dcterms:modified" : "2024-05-08T14:03:55",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://figgy.princeton.edu/concern/scanned_resources/83ff94b9-aa2e-4405-85bf-fa994f983ebb/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1386,6340,756,548"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1386.44765,6340.23827h377.89531v0h377.89531v273.92419v273.92419h-377.89531h-377.89531v-273.92419z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_50e8d80d-a8be-4ed6-a810-cb14a1394bc3\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://figgy.princeton.edu/concern/scanned_resources/83ff94b9-aa2e-4405-85bf-fa994f983ebb/manifest/canvas/47a39e75-30f5-4e9e-9e6f-b59d337a7931"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Damage",
+      "@type" : "oa:Tag",
+      "chars" : "Damage"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Tears in the parchment, this time with no missing text.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Tears in the parchment, this time with no missing text.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/105533102088785129971",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2024-05-08T14:05:48",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1715177148356",
+    "dcterms:modified" : "2024-05-08T14:05:48",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://figgy.princeton.edu/concern/scanned_resources/83ff94b9-aa2e-4405-85bf-fa994f983ebb/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5623,4261,351,2146"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5623.27076,4260.81588h175.36823v0h175.36823v1073.20217v1073.20217h-175.36823h-175.36823v-1073.20217z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_ec81d86c-6b40-41af-8ed6-dbd2b745c6d7\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://figgy.princeton.edu/concern/scanned_resources/83ff94b9-aa2e-4405-85bf-fa994f983ebb/manifest/canvas/47a39e75-30f5-4e9e-9e6f-b59d337a7931"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Damage",
+      "@type" : "oa:Tag",
+      "chars" : "Damage"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "More binding marks.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>More binding marks.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/105533102088785129971",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2024-05-08T14:06:28",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1715177188101",
+    "dcterms:modified" : "2024-05-08T14:06:28",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://figgy.princeton.edu/concern/scanned_resources/83ff94b9-aa2e-4405-85bf-fa994f983ebb/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=230,817,392,5305"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M229.76895,816.77256h195.94585v0h195.94585v2652.26354v2652.26354h-195.94585h-195.94585v-2652.26354z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_aff4300e-e7fd-45b5-a235-ea4bcd7c6644\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://figgy.princeton.edu/concern/scanned_resources/83ff94b9-aa2e-4405-85bf-fa994f983ebb/manifest/canvas/47a39e75-30f5-4e9e-9e6f-b59d337a7931"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Numbers",
+      "@type" : "oa:Tag",
+      "chars" : "Numbers"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Red ink",
+      "@type" : "oa:Tag",
+      "chars" : "Red ink"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Several examples of Ge'ez numbers, as indicated by the two black lines with red dots.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Several examples of Ge'ez numbers, as indicated by the two black lines with red dots.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/105533102088785129971",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2024-05-08T14:03:10",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1715176990572",
+    "dcterms:modified" : "2024-05-08T14:03:10",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://figgy.princeton.edu/concern/scanned_resources/83ff94b9-aa2e-4405-85bf-fa994f983ebb/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=750,2077,2276,1016"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M749.62455,2077.42238h1138.18412v0h1138.18412v507.85921v507.85921h-1138.18412h-1138.18412v-507.85921z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_cdb564ed-2120-478a-89f4-c2e71447660d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://figgy.princeton.edu/concern/scanned_resources/83ff94b9-aa2e-4405-85bf-fa994f983ebb/manifest/canvas/47a39e75-30f5-4e9e-9e6f-b59d337a7931"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Numbers",
+      "@type" : "oa:Tag",
+      "chars" : "Numbers"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Red ink",
+      "@type" : "oa:Tag",
+      "chars" : "Red ink"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Several more examples of Ge'ez numbers.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Several more examples of Ge'ez numbers.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/105533102088785129971",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2024-05-08T14:04:59",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1715177099591",
+    "dcterms:modified" : "2024-05-08T14:04:59",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://figgy.princeton.edu/concern/scanned_resources/83ff94b9-aa2e-4405-85bf-fa994f983ebb/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3206,2129,2627,990"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3205.94224,2129.40794h1313.63538v0h1313.63538v494.86282v494.86282h-1313.63538h-1313.63538v-494.86282z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_f2da0c33-0e18-48d8-ac6c-9f0de41c5545\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://figgy.princeton.edu/concern/scanned_resources/83ff94b9-aa2e-4405-85bf-fa994f983ebb/manifest/canvas/47a39e75-30f5-4e9e-9e6f-b59d337a7931"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Red ink",
+      "@type" : "oa:Tag",
+      "chars" : "Red ink"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Damage",
+      "@type" : "oa:Tag",
+      "chars" : "Damage"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "More smudges from the red ink spill.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>More smudges from the red ink spill.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/105533102088785129971",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2024-05-08T14:04:25",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1715177065451",
+    "dcterms:modified" : "2024-05-08T14:04:25",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://figgy.princeton.edu/concern/scanned_resources/83ff94b9-aa2e-4405-85bf-fa994f983ebb/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4129,6015,1289,275"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4128.68592,6015.32852h644.3213v0h644.3213v137.46209v137.46209h-644.3213h-644.3213v-137.46209z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_4abc25d1-14aa-49ab-952c-783e3332964c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://figgy.princeton.edu/concern/scanned_resources/83ff94b9-aa2e-4405-85bf-fa994f983ebb/manifest/canvas/47a39e75-30f5-4e9e-9e6f-b59d337a7931"
+    } ]
+  } ],
+  "@id" : "https://rhim-ande.github.io/Final Project/annotations/d296614e1e9ddafbc6c85bed01589f68.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
