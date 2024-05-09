@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://rhim-ande.github.io/Final Project/annotations/d296614e1e9ddafbc6c85bed01589f68.json" ],
+  "@id" : "https://rhim-ande.github.io/Final Project/annotations/collection.json",
+  "label" : "All annotations loaded in rhim-ande/Final-Project project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
