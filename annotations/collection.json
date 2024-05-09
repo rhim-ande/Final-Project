@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://rhim-ande.github.io/Final Project/annotations/d296614e1e9ddafbc6c85bed01589f68.json" ],
+  "otherContent" : [ "https://rhim-ande.github.io/Final Project/annotations/d296614e1e9ddafbc6c85bed01589f68.json", "https://rhim-ande.github.io/Final Project/annotations/dff4b50872fbc6a35a5a264abf90e851.json" ],
   "@id" : "https://rhim-ande.github.io/Final Project/annotations/collection.json",
   "label" : "All annotations loaded in rhim-ande/Final-Project project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
